@@ -17,7 +17,3 @@ Features
 Live Demo
 
 "View Live Demo" https://youssefalsousi.github.io/Brandstore/
-
-Project Preview
-
-"Brand Store Preview" (images/اسم-صورة-السكرين.png)
