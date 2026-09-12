@@ -76,7 +76,7 @@ img {
 .hero {
     height: 650px;
 
-    background-image: url("./WhatsApp\ Image\ 2026-08-28\ at\ 8.00.23\ PM\ \(2\).jpeg");
+    background-image: url("./imges/WhatsApp\ Image\ 2026-08-28\ at\ 8.00.23\ PM\ \(2\).jpeg");
     background-size: cover;
     background-position: center;
 
@@ -177,18 +177,18 @@ img {
 }
 
 .offer-one {
-    background-image: url("./WhatsApp\ Image\ 2026-08-28\ at\ 8.00.27\ PM\ \(1\).jpeg" );
+    background-image: url("./imges/WhatsApp\ Image\ 2026-08-28\ at\ 8.00.27\ PM\ \(1\).jpeg" );
     margin-right: 30px;
       
 }
 
 .offer-two {
-    background-image: url("./WhatsApp\ Image\ 2026-08-28\ at\ 8.00.24\ PM.jpeg");
+    background-image: url("./imges/WhatsApp\ Image\ 2026-08-28\ at\ 8.00.24\ PM.jpeg");
     margin-right: 30px;
 }
 
 .offer-three {
-    background-image: url("./WhatsApp\ Image\ 2026-08-28\ at\ 8.00.23\ PM.jpeg");
+    background-image: url("./imges/WhatsApp\ Image\ 2026-08-28\ at\ 8.00.23\ PM.jpeg");
 }
 
 .offer-content {
@@ -315,7 +315,7 @@ img {
 /* ================= SPECIAL ================= */
 
 .special-section {
-   background-image: url("./WhatsApp\ Image\ 2026-08-28\ at\ 8.00.21\ PM.jpeg");
+   background-image: url("./imges/WhatsApp\ Image\ 2026-08-28\ at\ 8.00.21\ PM.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
